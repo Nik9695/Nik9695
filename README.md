@@ -6,9 +6,11 @@ I am mechatronic system engineer and java developer.
 
 I am studing HTML and partly C++ languages, but most of my time I am spending for Java.
 
-I have good knowledges of:
+I am good at:
 
 - OOP Principles
-- Java 8+ core 
+- Java 8+ core
+- Lambda expressions  
 - Multithreading
 - JDBC 
+- PostgreSQL

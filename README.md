@@ -12,5 +12,6 @@ I am good at:
 - Java 8+ core
 - Lambda expressions  
 - Multithreading
+- Swing
 - JDBC 
 - PostgreSQL

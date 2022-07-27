@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Nik9695/Nik9695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nikita. 
 
-Here are some ideas to get you started:
+I am mechatronic system engineer and java developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am studing HTML and partly C++ languages, but most of my time I am spending for Java.
+
+I have good knowledges of:
+
+- OOP Principles
+- Java 8+ core 
+- Multithreading
+- JDBC 

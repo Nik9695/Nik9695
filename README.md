@@ -15,3 +15,5 @@ I am good at:
 - Swing
 - JDBC 
 - PostgreSQL
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik9695)](https://github.com/anuraghazra/github-readme-stats)

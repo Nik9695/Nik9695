@@ -2,8 +2,6 @@
 ### Java developer
 ![Java developer](https://www.docker.com/wp-content/uploads/2022/07/Programming-Language-Syntax-1110x740.jpg)
 
-### Hi there 👋
-
 I am mechatronic system engineer and java developer.
 
 I am studing JS, HTML and partly C++ languages, but most of my time I am spending for Java.

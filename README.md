@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nikita
-#### Java developer
+## Hi there 👋, my name is Nikita
+### Java developer
 ![Java developer](https://www.docker.com/wp-content/uploads/2022/07/Programming-Language-Syntax-1110x740.jpg)
 
 ### Hi there 👋

@@ -4,7 +4,7 @@ I'm Nikita.
 
 I am mechatronic system engineer and java developer.
 
-I am studing HTML and partly C++ languages, but most of my time I am spending for Java.
+I am studing JS, HTML and partly C++ languages, but most of my time I am spending for Java.
 
 I am good at:
 

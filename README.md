@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-I'm Nikita. 
-
 I am mechatronic system engineer and java developer.
 
 I am studing JS, HTML and partly C++ languages, but most of my time I am spending for Java.

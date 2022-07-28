@@ -9,7 +9,7 @@ I am studing JS, HTML and partly C++ languages, but most of my time I am spendin
 
 Skills: OOP Principles / Java 8 / Multithreading / Swing / JDBC / PostgreSQL
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
@@ -17,3 +17,7 @@ Skills: OOP Principles / Java 8 / Multithreading / Swing / JDBC / PostgreSQL
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nik9695)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+🔭 I’m currently working on this page. 

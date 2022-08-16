@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Nikita
+![](https://komarev.com/ghpvc/?username=Nik9695&style=plastic&color=blueviolet)
 ### Java developer
 ![Java developer](https://www.docker.com/wp-content/uploads/2022/07/Programming-Language-Syntax-1110x740.jpg)
 
